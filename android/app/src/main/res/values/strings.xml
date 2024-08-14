@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hadiske zbirke</string>
+
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <!-- Staging -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">fo5MNCxFQb-sh2xMPEmQsRSqGDQHfUDXFEqJF</string> -->
+    <!-- Production -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">29cY9C-wNODIvpp-aoymJDexLqSmNCt5kz-iI</string>
+</resources>

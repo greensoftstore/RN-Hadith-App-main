@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Bookerly-Bold.ttf",
+      "sha1": "f7cf7295aa4ba11ef04c666fa266a7518b0345a0"
+    },
+    {
+      "path": "src/assets/fonts/Bookerly-Regular.ttf",
+      "sha1": "e90f6342487b8c5f19d97eace415f9123e2714e2"
+    },
+    {
+      "path": "src/assets/fonts/Georgia-Bold.ttf",
+      "sha1": "e27ea4537381876f28e11c52fd383b98933ee58b"
+    },
+    {
+      "path": "src/assets/fonts/Georgia-Regular.ttf",
+      "sha1": "5818c435d0ff1333d98891690a83f50e56bc5a3b"
+    },
+    {
+      "path": "src/assets/fonts/Georgia-SemiBold.ttf",
+      "sha1": "97285b9f63ee739866b9950f3b7a5dc7807181d6"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Bold.ttf",
+      "sha1": "8c67a84fce342cf54ef01e9b30b46f75048aefd3"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Medium.ttf",
+      "sha1": "063378dbd1b8b0b03263d86714a455ae11afb743"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Regular.ttf",
+      "sha1": "00e029c09a98fd014a7a1013e7efe357b40da352"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Semibold.ttf",
+      "sha1": "9dd7c8e0a103ff7d074b046272a87e4a0565e6b2"
+    }
+  ]
+}
